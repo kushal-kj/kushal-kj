@@ -1,4 +1,4 @@
-[![MasterHead](https://www.electronicsforu.com/wp-contents/uploads/2016/07/1743079040.jpg)](https://codegrills.in)
+[![MasterHead](https://www.electronicsforu.com/wp-contents/uploads/2016/07/1743079040.jpg)]
 <h1 align="center">Hi 👋, I'm Kushal KJ</h1>
 <h3 align="center">Embedded Software Enthusiast !!</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
