@@ -1,7 +1,7 @@
-[![MasterHead](https://www.electronicsforu.com/wp-contents/uploads/2016/07/1743079040.jpg)]
+[![MasterHead](https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif)]
 <h1 align="center">Hi 👋, I'm Kushal KJ</h1>
 <h3 align="center">Embedded Software Enthusiast !!</h3>
-<img align="center" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushal-kj&label=Profile%20views&color=0e75b6&style=flat" alt="kushal-kj" /> </p>
 
