@@ -29,6 +29,8 @@ src="https://img.shields.io/github/followers/kushal-kj?logo=github&style=for-the
 
 <a href="http://www.github.com/kushal-kj"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kushal-kj&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
