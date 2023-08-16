@@ -1,13 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kushal KJ
-=================================================================================================================================
+<h1 align=center>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="gif"> My name is Kushal KJ</h1>
 
-Embedded System Enthusiast!!
+![cover](https://graph.org/file/53c59396be94840a1cc66.jpg)
+
+Embedded System Enthusiast!! 🤖
 ----------------------------
 
 Holding an Engineering degree, my main interest lies in the captivating field of "Embedded Software Development". Taking the initiative as a self-motivated learner, I thoroughly engage with the complexities of hardware programming. This journey has transformed me into a committed hobbyist, consistently honing my skills and expertise in the process.
 
 * 🌍  I'm based in Bengaluru ,Karnataka, India
-* ✉️  You can contact me at [kushal.kuramkote@gmail.com](mailto:kushal.kuramkote@gmail.com)
 * 🧠  I'm learning FreeRTOS programming with STM32
 * 📄 Know about my experiences : [https://tinyurl.com/kushal-kj](https://tinyurl.com/kushal-kj)
 * ⚡Fun Fact : I can watch 25 episodes of anime in a single day !!😎
