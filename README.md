@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Embedded System Enthusiast!!
 ----------------------------
 
-As an individual armed with an Engineering degree, my focus centers on the fascinating domain of Embedded Software Development. Embracing the path of a self-motivated learner, I revel in the art of hardware programming, assuming the mantle of a devoted hobbyist in the process .
+As an individual armed with an Engineering degree, my focus centers on the fascinating domain of "Embedded Software Development". Embracing the path of a self-motivated learner, I revel in the art of hardware programming, assuming the mantle of a devoted hobbyist in the process .
 
 * 🌍  I'm based in Bengaluru ,Karnataka, India
 * ✉️  You can contact me at [kushal.kuramkote@gmail.com](mailto:kushal.kuramkote@gmail.com)
