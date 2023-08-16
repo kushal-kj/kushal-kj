@@ -1,4 +1,4 @@
-<h1 align=center><hr>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="gif"> My name is Kushal KJ<hr></h1>
+<h1 align=center><hr>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="gif" height="32" width="32"> My name is Kushal KJ<hr></h1>
 
 ![cover](https://graph.org/file/53c59396be94840a1cc66.jpg)
 
