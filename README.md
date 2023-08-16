@@ -9,6 +9,7 @@ As an individual armed with an Engineering degree, my focus centers on the fasci
 * 🌍  I'm based in Bengaluru ,Karnataka, India
 * ✉️  You can contact me at [kushal.kuramkote@gmail.com](mailto:kushal.kuramkote@gmail.com)
 * 🧠  I'm learning FreeRTOS programming with STM32
+* 📄 Know about my experiences : [https://tinyurl.com/kushal-kj](https://tinyurl.com/kushal-kj)
 * ⚡Fun Fact : I can watch 25 episodes of anime in a single day !!😎
 
 <a href="https://www.github.com/kushal-kj" target="_blank" rel="noreferrer"><img
