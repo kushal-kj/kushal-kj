@@ -7,7 +7,7 @@ Embedded System Enthusiast!! 🤖
 
 Holding an Engineering degree, my main interest lies in the captivating field of "Embedded Software Development". Taking the initiative as a self-motivated learner, I thoroughly engage with the complexities of hardware programming. This journey has transformed me into a committed hobbyist, consistently honing my skills and expertise in the process.
 
-* 🌍  I'm based in Bengaluru ,Karnataka, India
+* 🌍  I'm based in Bengaluru, Karnataka, India
 * 🧠  I'm learning FreeRTOS programming with STM32
 * 📄 Know about my experiences : [https://tinyurl.com/kushal-kj](https://tinyurl.com/kushal-kj)
 * ⚡Fun Fact : I can watch 25 episodes of anime in a single day !!😎
