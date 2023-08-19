@@ -34,7 +34,7 @@ src="https://img.shields.io/github/followers/kushal-kj?logo=github&style=for-the
 ![](https://komarev.com/ghpvc/?username=kushal-kj)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2043%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.4%20million%20lines%20of%20code-blue)
 
@@ -100,5 +100,5 @@ C                        4 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/kushal-kj/kushal-kj/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2023 06:29:15 UTC
+ Last Updated on 19/08/2023 06:35:25 UTC
 <!--END_SECTION:waka-->
