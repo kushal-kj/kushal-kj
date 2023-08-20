@@ -100,5 +100,5 @@ C                        4 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/kushal-kj/kushal-kj/main/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2023 06:29:14 UTC
+ Last Updated on 20/08/2023 06:35:24 UTC
 <!--END_SECTION:waka-->
