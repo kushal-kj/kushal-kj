@@ -34,7 +34,7 @@ src="https://img.shields.io/github/followers/kushal-kj?logo=github&style=for-the
 ![](https://komarev.com/ghpvc/?username=kushal-kj)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2020%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.7%20million%20lines%20of%20code-blue)
 
@@ -77,14 +77,14 @@ Sunday                   4 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C                        15 hrs 1 min        ████████████████████████░   97.98 % 
-Assembly                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+C                        16 hrs 40 mins      █████████████████████████   98.16 % 
+Assembly                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 
 🔥 Editors: 
-Eclipse                  15 hrs 20 mins      █████████████████████████   100.00 % 
+Eclipse                  16 hrs 59 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  15 hrs 20 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -100,5 +100,5 @@ C                        4 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/kushal-kj/kushal-kj/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2023 07:06:37 UTC
+ Last Updated on 23/08/2023 06:08:35 UTC
 <!--END_SECTION:waka-->
