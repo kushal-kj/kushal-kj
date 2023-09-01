@@ -17,7 +17,7 @@ src="https://img.shields.io/github/followers/kushal-kj?logo=github&style=for-the
 
 ### Socials
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kushal-kj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kushal-kj/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kushal-kj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kushal-kj/" height="30" width="40" /></a>
 &nbsp;
 <a href="mailto:kushal.kuramkote@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/8f19e4dbbf13418dc1b1d58bb265953553c15a46/topics/gmail/gmail.png" alt="https://www.linkedin.com/in/kushal-kj/" height="40" width="40" /></a>
 </p>
