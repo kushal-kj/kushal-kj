@@ -9,8 +9,9 @@ Holding an Engineering degree, my main interest lies in the captivating field of
 
 * 🌍  I'm based in Bengaluru, Karnataka, India
 * 🧠  I'm learning FreeRTOS programming with STM32
-* 📄 Know about my experiences : [https://tinyurl.com/kushal-kj](https://tinyurl.com/kushal-kj)
-* ⚡Fun Fact : I can watch 25 episodes of anime in a single day !!😎
+* 🔑  Key Skills : RTOS(FreeRTOS), Device Driver Development, STM32, Protocols like -> GPIO,ADC,UART,I2C,SPI,CAN
+* 📄  Know about my experiences : [https://tinyurl.com/kushal-kj](https://tinyurl.com/kushal-kj)
+* ⚡  Fun Fact : I can watch 25 episodes of anime in a single day !!😎
 
 <a href="https://www.github.com/kushal-kj" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/kushal-kj?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
