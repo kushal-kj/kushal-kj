@@ -11,6 +11,7 @@ Holding an Engineering degree, my main interest lies in the captivating field of
 * 🧠  I'm learning FreeRTOS programming with STM32
 * 🔑  Key Skills : RTOS(FreeRTOS), Device Driver Development, STM32, Protocols like -> GPIO,ADC,UART,I2C,SPI,CAN
 * 📄  Know about my experiences : [https://tinyurl.com/kushal-kj](https://tinyurl.com/kushal-kj)
+* 🏆  Achievements : *All India 24th rank* in **'All India GK exam' (AIGK)** hosted by Centre for Human Resource Development(CHRD) in 2011.
 * ⚡  Fun Fact : I can watch 25 episodes of anime in a single day !!😎
 
 <a href="https://www.github.com/kushal-kj" target="_blank" rel="noreferrer"><img
