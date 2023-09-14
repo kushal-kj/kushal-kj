@@ -8,7 +8,7 @@ Embedded System Enthusiast!! 🤖
 Holding an Engineering degree, my main interest lies in the captivating field of "Embedded Software Development". Taking the initiative as a self-motivated learner, I thoroughly engage with the complexities of hardware programming. This journey has transformed me into a committed hobbyist, consistently honing my skills and expertise in the process.
 
 * 🌍  I'm based in Bengaluru, Karnataka, India
-* 🧠  I'm learning FreeRTOS programming with STM32
+* 🧠  I'm currently learning RaspberryPi with Linux.
 * 🔑  Key Skills : RTOS(FreeRTOS), Device Driver Development, STM32, Protocols like -> GPIO,ADC,UART,I2C,SPI,CAN
 * 📄  Know about my experiences : [https://tinyurl.com/kushal-kj1](https://tinyurl.com/kushal-kj1)
 * 🏆  Achievements : *All India 24th rank* in **'All India GK exam' (AIGK)** hosted by Centre for Human Resource Development(CHRD) in 2011.
