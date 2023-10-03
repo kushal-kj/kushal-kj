@@ -40,7 +40,7 @@ src="https://img.shields.io/github/followers/kushal-kj?logo=github&style=for-the
 
 **🐱 My GitHub Data** 
 
-> 📦 461.5 kB Used in GitHub's Storage 
+> 📦 461.6 kB Used in GitHub's Storage 
  > 
 > 🏆 105 Contributions in the Year 2023
  > 
@@ -77,16 +77,13 @@ Sunday                   4 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-sh                       1 hr 6 mins         █████████████████████░░░░   85.69 % 
-C                        11 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+C                        11 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Zsh                      1 hr 6 mins         █████████████████████░░░░   85.69 % 
-Eclipse                  11 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+Eclipse                  11 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 6 mins         █████████████████████░░░░   85.69 % 
-Windows                  11 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+Windows                  11 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -104,5 +101,5 @@ JavaScript               1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kushal-kj/kushal-kj/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2023 07:01:00 UTC
+ Last Updated on 03/10/2023 06:09:55 UTC
 <!--END_SECTION:waka-->
