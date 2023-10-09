@@ -10,7 +10,7 @@ Holding an Engineering degree, my main interest lies in the captivating field of
 * 🌍  I'm based in Bengaluru, Karnataka, India
 * 🧠  I'm currently learning RaspberryPi with Linux.
 * 🔑  Key Skills : RTOS(FreeRTOS), Device Driver Development, STM32, Protocols like -> GPIO,ADC,UART,I2C,SPI,CAN
-* 📄  Know about my experiences : [https://tinyurl.com/kushal-kj1](https://tinyurl.com/kushal-kj1)
+* 📄  Know about my experiences : [https://tinyurl.com/kushal-kj1](https://tinyurl.com/kushalkj-resume)
 * 🏆  Achievements : *All India 24th rank* in **'All India GK exam' (AIGK)** hosted by Centre for Human Resource Development(CHRD) in 2011.
 * ⚡  Fun Fact : I can watch 25 episodes of anime in a single day !!😎
 
