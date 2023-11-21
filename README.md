@@ -40,7 +40,7 @@ src="https://img.shields.io/github/followers/kushal-kj?logo=github&style=for-the
 
 **🐱 My GitHub Data** 
 
-> 📦 461.3 kB Used in GitHub's Storage 
+> 📦 460.6 kB Used in GitHub's Storage 
  > 
 > 🏆 110 Contributions in the Year 2023
  > 
@@ -102,5 +102,5 @@ JavaScript               1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kushal-kj/kushal-kj/main/assets/bar_graph.png)
 
 
- Last Updated on 20/11/2023 07:08:00 UTC
+ Last Updated on 21/11/2023 06:10:21 UTC
 <!--END_SECTION:waka-->
