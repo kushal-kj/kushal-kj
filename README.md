@@ -50,42 +50,6 @@ src="https://img.shields.io/github/followers/kushal-kj?logo=github&style=for-the
  > 
 > 🔑 2 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-🌆 Daytime                60 commits          ███████████░░░░░░░░░░░░░░   43.80 % 
-🌃 Evening                53 commits          ██████████░░░░░░░░░░░░░░░   38.69 % 
-🌙 Night                  21 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   22 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
-Tuesday                  19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-Wednesday                35 commits          ██████░░░░░░░░░░░░░░░░░░░   25.55 % 
-Thursday                 10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
-Friday                   35 commits          ██████░░░░░░░░░░░░░░░░░░░   25.55 % 
-Saturday                 11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
-Sunday                   5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in C** 
 
 ```text
@@ -102,5 +66,5 @@ JavaScript               1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kushal-kj/kushal-kj/main/assets/bar_graph.png)
 
 
- Last Updated on 01/12/2023 07:07:02 UTC
+ Last Updated on 02/12/2023 06:09:27 UTC
 <!--END_SECTION:waka-->
