@@ -42,48 +42,14 @@ src="https://img.shields.io/github/followers/kushal-kj?logo=github&style=for-the
 
 > 📦 462.1 kB Used in GitHub's Storage 
  > 
+> 🏆 12 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 8 Public Repositories 
  > 
 > 🔑 4 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-🌆 Daytime                482 commits         ██████████████░░░░░░░░░░░   55.59 % 
-🌃 Evening                361 commits         ██████████░░░░░░░░░░░░░░░   41.64 % 
-🌙 Night                  21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-Tuesday                  163 commits         █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
-Wednesday                51 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Thursday                 48 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-Friday                   78 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-Saturday                 330 commits         ██████████░░░░░░░░░░░░░░░   38.06 % 
-Sunday                   124 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in C** 
 
 ```text
@@ -101,5 +67,5 @@ JavaScript               1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kushal-kj/kushal-kj/main/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2025 07:18:22 UTC
+ Last Updated on 17/09/2025 06:16:16 UTC
 <!--END_SECTION:waka-->
