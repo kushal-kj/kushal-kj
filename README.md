@@ -36,7 +36,7 @@ src="https://img.shields.io/github/followers/kushal-kj?logo=github&style=for-the
 ![](https://komarev.com/ghpvc/?username=kushal-kj)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.80%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.80%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -103,5 +103,5 @@ JavaScript               1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kushal-kj/kushal-kj/main/assets/bar_graph.png)
 
 
- Last Updated on 05/01/2026 07:28:34 UTC
+ Last Updated on 06/01/2026 06:19:36 UTC
 <!--END_SECTION:waka-->
